@@ -1,3 +1,3 @@
-# wpa2_sniffer
+# steganography_lsb
 
-과제
+steganography .bmp to lsb
