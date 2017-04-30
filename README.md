@@ -1,3 +1,3 @@
 # steganography_lsb
 
-steganography .bmp to lsb
+LSB to .bmp file
